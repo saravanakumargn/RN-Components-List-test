@@ -1,0 +1,16 @@
+{
+  "data": [
+    "build__development",
+    "all",
+    "forms",
+    "backend",
+    "frameworks",
+    "media",
+    "geolocation",
+    "storage",
+    "styling",
+    "system",
+    "web",
+    "internationalization"
+  ]
+}
