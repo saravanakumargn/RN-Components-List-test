@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "name": "react-native-animatable",
+      "desc": "Standard set of easy to use animations and declarative transitions for React Native",
+      "site": "",
+      "url": "https://github.com/oblador/react-native-animatable",
+      "pushedAt": "2018-07-27T13:16:54Z",
+      "owner": {
+        "avatar": "https://avatars0.githubusercontent.com/u/378279?v=4",
+        "url": "https://github.com/oblador",
+        "login": "oblador"
+      },
+      "stars": 5355,
+      "issues": 69,
+      "release": [
+        {
+          "update": "2018-05-31T19:41:59Z",
+          "name": "1.3.0",
+          "pre": false,
+          "url": "https://github.com/oblador/react-native-animatable/releases/tag/v1.3.0"
+        }
+      ],
+      "topics": [
+        "react-native",
+        "animation",
+        "transition"
+      ],
+      "tags": [
+        {
+          "name": "v1.3.0",
+          "date": "2018-05-31T21:40:31+02:00"
+        }
+      ]
+    },
+    {
+      "name": "react-native-interactable",
+      "desc": "Experimental implementation of high performance interactable views in React Native",
+      "site": "",
+      "url": "https://github.com/wix/react-native-interactable",
+      "pushedAt": "2018-07-18T14:07:39Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/686511?v=4",
+        "url": "https://github.com/wix",
+        "login": "wix"
+      },
+      "stars": 3887,
+      "issues": 104,
+      "release": [
+        {
+          "update": "2017-09-01T19:04:47Z",
+          "name": "Bug Fixes",
+          "pre": false,
+          "url": "https://github.com/wix/react-native-interactable/releases/tag/v0.1.3"
+        }
+      ],
+      "topics": [],
+      "tags": [
+        {
+          "name": "v0.1.9"
+        }
+      ]
+    },
+    {
+      "name": "react-native-spruce",
+      "desc": "ReactNative Bridge for Native Spruce Animation Library",
+      "site": "https://github.com/willowtreeapps/spruce-android",
+      "url": "https://github.com/prscX/react-native-spruce",
+      "pushedAt": "2018-06-23T15:28:44Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/28862892?v=4",
+        "url": "https://github.com/prscX",
+        "login": "prscX"
+      },
+      "stars": 384,
+      "issues": 3,
+      "release": [
+        {
+          "update": "2018-05-21T09:29:45Z",
+          "name": "V0.0.6",
+          "pre": false,
+          "url": "https://github.com/prscX/react-native-spruce/releases/tag/v0.0.6"
+        }
+      ],
+      "topics": [],
+      "tags": [
+        {
+          "name": "v0.0.6",
+          "date": "2018-05-21T14:57:12+05:30"
+        }
+      ]
+    },
+    {
+      "name": "react-native-gl-model-view",
+      "desc": "📺  React Native bridge to GLView (iOS) and jPCT-AE (Android) - display and animate textured Wavefront .OBJ 3D models with 60fps",
+      "site": "",
+      "url": "https://github.com/rastapasta/react-native-gl-model-view",
+      "pushedAt": "2018-05-28T13:14:01Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/1259904?v=4",
+        "url": "https://github.com/rastapasta",
+        "login": "rastapasta"
+      },
+      "stars": 193,
+      "issues": 9,
+      "release": [
+        {
+          "update": "2018-04-03T19:28:31Z",
+          "name": "Model tinting, transparent background  ",
+          "pre": false,
+          "url": "https://github.com/rastapasta/react-native-gl-model-view/releases/tag/v1.3.2"
+        }
+      ],
+      "topics": [
+        "react-native",
+        "wavefront-obj",
+        "react-native-component"
+      ],
+      "tags": [
+        {
+          "name": "v1.3.2",
+          "date": "2018-04-03T21:23:20+02:00"
+        }
+      ]
+    },
+    {
+      "name": "react-native-animated-sprite",
+      "desc": "React Native component for animated sprite and tweening ",
+      "site": null,
+      "url": "https://github.com/micahrye/react-native-animated-sprite",
+      "pushedAt": "2018-06-13T15:13:23Z",
+      "owner": {
+        "avatar": "https://avatars0.githubusercontent.com/u/4001336?v=4",
+        "url": "https://github.com/micahrye",
+        "login": "micahrye"
+      },
+      "stars": 95,
+      "issues": 2,
+      "release": [],
+      "topics": [],
+      "tags": []
+    }
+  ],
+  "modifiedOn": "2018-07-31T12:41:46.943Z"
+}

@@ -1,1 +1,206 @@
-{"data":[{"name":"react-native-webrtc","desc":"A WebRTC module for React Native.","site":"","url":"https://github.com/oney/react-native-webrtc","pushedAt":"2018-07-28T16:54:32Z","owner":{"avatar":"https://avatars0.githubusercontent.com/u/4091190?v=4","url":"https://github.com/oney","login":"oney"},"stars":1649,"issues":96,"release":[{"update":"2017-10-05T06:04:00Z","name":"Release 1.58.3","pre":false,"url":"https://github.com/oney/react-native-webrtc/releases/tag/1.58.3"},{"update":"2018-06-20T07:35:35Z","name":"Release 1.63.0","pre":false,"url":"https://github.com/oney/react-native-webrtc/releases/tag/1.63.0"}],"topics":[],"tags":[{"name":"v0.10.2"}]},{"name":"react-native-webview-bridge","desc":"React Native Webview with Javascript Bridge ","site":null,"url":"https://github.com/alinz/react-native-webview-bridge","pushedAt":"2018-06-25T14:02:12Z","owner":{"avatar":"https://avatars1.githubusercontent.com/u/967050?v=4","url":"https://github.com/alinz","login":"alinz"},"stars":1068,"issues":100,"release":[],"topics":[],"tags":[{"name":"v0.33.0","date":"2016-09-17T13:49:19-04:00"}]},{"name":"react-native-safari-view","desc":"A React Native wrapper for Safari View Controller.","site":"https://www.npmjs.com/package/react-native-safari-view","url":"https://github.com/naoufal/react-native-safari-view","pushedAt":"2018-07-27T16:00:59Z","owner":{"avatar":"https://avatars3.githubusercontent.com/u/1627824?v=4","url":"https://github.com/naoufal","login":"naoufal"},"stars":371,"issues":8,"release":[{"update":"2016-10-10T17:18:00Z","name":"1.2.0","pre":false,"url":"https://github.com/naoufal/react-native-safari-view/releases/tag/v1.2.0"},{"update":"2017-10-02T15:30:33Z","name":"2.1.0","pre":false,"url":"https://github.com/naoufal/react-native-safari-view/releases/tag/v2.1.0"}],"topics":["react-native","apple","safari-view-controller","safari"],"tags":[{"name":"v2.1.0","date":"2017-10-02T08:24:25-07:00"}]},{"name":"react-native-webview-android","desc":"Simple React Native Android module to use Android's WebView inside your app","site":null,"url":"https://github.com/lucasferreira/react-native-webview-android","pushedAt":"2018-07-06T14:19:28Z","owner":{"avatar":"https://avatars2.githubusercontent.com/u/234495?v=4","url":"https://github.com/lucasferreira","login":"lucasferreira"},"stars":273,"issues":18,"release":[],"topics":[],"tags":[]},{"name":"react-native-for-web","desc":"A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously)","site":null,"url":"https://github.com/KodersLab/react-native-for-web","pushedAt":"2016-02-05T16:35:08Z","owner":{"avatar":"https://avatars2.githubusercontent.com/u/6959168?v=4","url":"https://github.com/KodersLab","login":"KodersLab"},"stars":245,"issues":11,"release":[{"update":"2015-09-16T10:26:59Z","name":"0.1.5 - First release!","pre":false,"url":"https://github.com/KodersLab/react-native-for-web/releases/tag/0.1.5"},{"update":"2015-10-13T06:49:07Z","name":"Version: 0.1.6 React 0.14 HYPE!","pre":false,"url":"https://github.com/KodersLab/react-native-for-web/releases/tag/0.1.6"}],"topics":[],"tags":[{"name":"0.1.6","date":"2015-10-13T08:46:38+02:00"}]},{"name":"react-native-browser","desc":"Full-featured web browser module for React Native apps, based on TOWebViewController","site":null,"url":"https://github.com/PrestoDoctor/react-native-browser","pushedAt":"2017-11-07T19:08:00Z","owner":{"avatar":"https://avatars0.githubusercontent.com/u/13735464?v=4","url":"https://github.com/PrestoDoctor","login":"PrestoDoctor"},"stars":103,"issues":8,"release":[],"topics":[],"tags":[]},{"name":"react-native-webview-crosswalk","desc":"Crosswalk's WebView for React Native on Android.","site":"","url":"https://github.com/jordansexton/react-native-webview-crosswalk","pushedAt":"2017-07-13T01:16:02Z","owner":{"avatar":"https://avatars2.githubusercontent.com/u/1173161?v=4","url":"https://github.com/jordansexton","login":"jordansexton"},"stars":83,"issues":13,"release":[],"topics":["react-native","crosswalk","android","react","java","webview"],"tags":[{"name":"v0.5.0","date":"2017-02-06T13:58:52-06:00"}]},{"name":"react-native-webintent","desc":"React-native module for android to open urls in the default browser","site":"","url":"https://github.com/ivanph/react-native-webintent","pushedAt":"2015-12-07T06:11:50Z","owner":{"avatar":"https://avatars3.githubusercontent.com/u/1133538?v=4","url":"https://github.com/ivanph","login":"ivanph"},"stars":53,"issues":0,"release":[],"topics":[],"tags":[{"name":"v1.0.4"}]},{"name":"react-native-turbolinks","desc":"React Native adapter for building hybrid apps with Turbolinks 5","site":null,"url":"https://github.com/lazaronixon/react-native-turbolinks","pushedAt":"2018-07-02T04:04:36Z","owner":{"avatar":"https://avatars3.githubusercontent.com/u/2651240?v=4","url":"https://github.com/lazaronixon","login":"lazaronixon"},"stars":59,"issues":4,"release":[{"update":"2018-05-02T22:45:49Z","name":"Version 1.6.6","pre":false,"url":"https://github.com/lazaronixon/react-native-turbolinks/releases/tag/v1.6.6"},{"update":"2018-07-02T03:55:49Z","name":"Version 1.6.7","pre":false,"url":"https://github.com/lazaronixon/react-native-turbolinks/releases/tag/v1.6.7"}],"topics":[],"tags":[{"name":"v1.6.7"}]},{"name":"react-native-web-container","desc":null,"site":null,"url":"https://github.com/danrigsby/react-native-web-container","pushedAt":"2017-01-20T14:15:44Z","owner":{"avatar":"https://avatars1.githubusercontent.com/u/2583279?v=4","url":"https://github.com/danrigsby","login":"danrigsby"},"stars":35,"issues":1,"release":[],"topics":[],"tags":[]},{"name":"react-native-browser-polyfill","desc":"A collection of polyfills for the react-native JavaScript environment.","site":null,"url":"https://github.com/johanneslumpe/react-native-browser-polyfill","pushedAt":"2017-05-18T13:26:40Z","owner":{"avatar":"https://avatars0.githubusercontent.com/u/3470207?v=4","url":"https://github.com/johanneslumpe","login":"johanneslumpe"},"stars":28,"issues":2,"release":[],"topics":[],"tags":[]},{"name":"react-native-inapp-browser","desc":"A in-App browser for react native based apps.","site":null,"url":"https://github.com/DickyT/react-native-inapp-browser","pushedAt":"2015-11-16T19:16:32Z","owner":{"avatar":"https://avatars1.githubusercontent.com/u/4535844?v=4","url":"https://github.com/DickyT","login":"DickyT"},"stars":25,"issues":1,"release":[],"topics":[],"tags":[]},{"name":"react-native-bridgeable-webview","desc":"Provides the ability to perform React Native calls from the WebView","site":"","url":"https://github.com/Intellicode/react-native-bridgeable-webview","pushedAt":"2017-05-15T19:48:49Z","owner":{"avatar":"https://avatars0.githubusercontent.com/u/6794?v=4","url":"https://github.com/Intellicode","login":"Intellicode"},"stars":15,"issues":0,"release":[],"topics":[],"tags":[]},{"name":"react-native-cookiemanager","desc":null,"site":null,"url":"https://github.com/beefe/react-native-cookiemanager","pushedAt":"2017-08-23T10:01:41Z","owner":{"avatar":"https://avatars2.githubusercontent.com/u/15082585?v=4","url":"https://github.com/beefe","login":"beefe"},"stars":16,"issues":4,"release":[],"topics":[],"tags":[]},{"name":"react-native-html-render","desc":"A html render for react-native","site":null,"url":"https://github.com/labithiotis/react-native-html-render","pushedAt":"2016-12-28T22:38:34Z","owner":{"avatar":"https://avatars1.githubusercontent.com/u/784306?v=4","url":"https://github.com/labithiotis","login":"labithiotis"},"stars":3,"issues":0,"release":[],"topics":[],"tags":[{"name":"v1.0.3"}]},{"name":"react-native-webview","desc":"Deprecated","site":"","url":"https://github.com/beefe/react-native-webview","pushedAt":"2015-12-22T06:34:47Z","owner":{"avatar":"https://avatars2.githubusercontent.com/u/15082585?v=4","url":"https://github.com/beefe","login":"beefe"},"stars":3,"issues":1,"release":[],"topics":[],"tags":[]}]}
+{
+  "data": [
+    {
+      "name": "react-native-code-push",
+      "desc": "React Native module for CodePush",
+      "site": "http://appcenter.ms",
+      "url": "https://github.com/Microsoft/react-native-code-push",
+      "pushedAt": "2018-07-31T12:33:16Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/6154722?v=4",
+        "url": "https://github.com/Microsoft",
+        "login": "Microsoft"
+      },
+      "stars": 4862,
+      "issues": 19,
+      "release": [
+        {
+          "update": "2018-07-31T12:30:13Z",
+          "name": "v5.4.1",
+          "pre": false,
+          "url": "https://github.com/Microsoft/react-native-code-push/releases/tag/v5.4.1"
+        }
+      ],
+      "topics": [
+        "react-native",
+        "codepush",
+        "code-push"
+      ],
+      "tags": [
+        {
+          "name": "v5.4.1",
+          "date": "2018-07-31T15:26:37+03:00"
+        }
+      ]
+    },
+    {
+      "name": "react-native-webpack-server",
+      "desc": "Build React Native apps with Webpack",
+      "site": null,
+      "url": "https://github.com/mjohnston/react-native-webpack-server",
+      "pushedAt": "2016-10-08T12:27:47Z",
+      "owner": {
+        "avatar": "https://avatars0.githubusercontent.com/u/331053?v=4",
+        "url": "https://github.com/mjohnston",
+        "login": "mjohnston"
+      },
+      "stars": 931,
+      "issues": 10,
+      "release": [
+        {
+          "update": "2016-04-06T23:28:18Z",
+          "name": "0.9.0",
+          "pre": false,
+          "url": "https://github.com/mjohnston/react-native-webpack-server/releases/tag/0.9.0"
+        }
+      ],
+      "topics": [],
+      "tags": [
+        {
+          "name": "0.9.3",
+          "date": "2016-05-24T12:22:07-07:00"
+        }
+      ]
+    },
+    {
+      "name": "generator-rn-toolbox",
+      "desc": "The React Native Generator to bootstrap your apps",
+      "site": "",
+      "url": "https://github.com/bamlab/generator-rn-toolbox",
+      "pushedAt": "2018-07-19T10:29:39Z",
+      "owner": {
+        "avatar": "https://avatars3.githubusercontent.com/u/9597329?v=4",
+        "url": "https://github.com/bamlab",
+        "login": "bamlab"
+      },
+      "stars": 679,
+      "issues": 20,
+      "release": [
+        {
+          "update": "2018-04-14T20:35:56Z",
+          "name": "v3.3.1",
+          "pre": false,
+          "url": "https://github.com/bamlab/generator-rn-toolbox/releases/tag/v3.3.1"
+        }
+      ],
+      "topics": [
+        "react-native",
+        "yeoman",
+        "wallaby",
+        "generator",
+        "vscode-configs",
+        "vscode",
+        "yarn",
+        "jest",
+        "travis-ci",
+        "travis"
+      ],
+      "tags": [
+        {
+          "name": "v3.3.1",
+          "date": "2018-04-14T22:34:20+02:00"
+        }
+      ]
+    },
+    {
+      "name": "babel-preset-react-native-stage-0",
+      "desc": "Use stage-0 Babel features with React Native",
+      "site": "",
+      "url": "https://github.com/skevy/babel-preset-react-native-stage-0",
+      "pushedAt": "2017-11-28T17:25:50Z",
+      "owner": {
+        "avatar": "https://avatars0.githubusercontent.com/u/131916?v=4",
+        "url": "https://github.com/skevy",
+        "login": "skevy"
+      },
+      "stars": 93,
+      "issues": 4,
+      "release": [],
+      "topics": [],
+      "tags": [
+        {
+          "name": "v1.0.1",
+          "date": "2016-03-31T13:19:35-04:00"
+        }
+      ]
+    },
+    {
+      "name": "react-native-debug-stylesheet",
+      "desc": "Stylesheet that helps you debug layout problems in react-native, because we're all still not that good at flexbox",
+      "site": "https://www.npmjs.com/package/react-native-debug-stylesheet",
+      "url": "https://github.com/brentvatne/react-native-debug-stylesheet",
+      "pushedAt": "2016-04-05T19:20:15Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/90494?v=4",
+        "url": "https://github.com/brentvatne",
+        "login": "brentvatne"
+      },
+      "stars": 71,
+      "issues": 2,
+      "release": [],
+      "topics": [],
+      "tags": [
+        {
+          "name": "0.1.1",
+          "date": "2016-01-28T12:32:59-08:00"
+        }
+      ]
+    },
+    {
+      "name": "react-native-css-loader",
+      "desc": "Style React-Native components built with webpack",
+      "site": null,
+      "url": "https://github.com/thewei/react-native-css-loader",
+      "pushedAt": "2016-01-25T15:37:16Z",
+      "owner": {
+        "avatar": "https://avatars3.githubusercontent.com/u/396570?v=4",
+        "url": "https://github.com/thewei",
+        "login": "thewei"
+      },
+      "stars": 38,
+      "issues": 0,
+      "release": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "name": "react-native-cosmos",
+      "desc": "DX tool to test react-native components with defined props/state fixtures.",
+      "site": null,
+      "url": "https://github.com/jerolimov/react-native-cosmos",
+      "pushedAt": "2016-08-16T10:06:45Z",
+      "owner": {
+        "avatar": "https://avatars3.githubusercontent.com/u/139310?v=4",
+        "url": "https://github.com/jerolimov",
+        "login": "jerolimov"
+      },
+      "stars": 18,
+      "issues": 0,
+      "release": [],
+      "topics": [],
+      "tags": [
+        {
+          "name": "0.2.0"
+        }
+      ]
+    },
+    {
+      "name": "react-native-kill-packager",
+      "desc": "🚀 Kills React Native packager listing on port 8081. ",
+      "site": "https://www.npmjs.com/package/react-native-kill-packager",
+      "url": "https://github.com/livioso/react-native-kill-packager",
+      "pushedAt": "2016-08-27T15:26:47Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/1672198?v=4",
+        "url": "https://github.com/livioso",
+        "login": "livioso"
+      },
+      "stars": 15,
+      "issues": 2,
+      "release": [],
+      "topics": [],
+      "tags": []
+    }
+  ],
+  "modifiedOn": "2018-07-31T12:38:26.560Z"
+}

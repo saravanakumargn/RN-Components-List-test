@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "name": "movieapp",
+      "desc": "Discover Movies and TV shows -  React Native ",
+      "site": "",
+      "url": "https://github.com/junedomingo/movieapp",
+      "pushedAt": "2018-01-09T01:13:43Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/5106887?v=4",
+        "url": "https://github.com/junedomingo",
+        "login": "junedomingo"
+      },
+      "stars": 1348,
+      "issues": 8,
+      "release": [
+        {
+          "update": "2016-11-12T16:08:11Z",
+          "name": "",
+          "pre": false,
+          "url": "https://github.com/junedomingo/movieapp/releases/tag/v2.0.2"
+        }
+      ],
+      "topics": [
+        "movieapp",
+        "redux",
+        "react-native",
+        "react-native-navigation",
+        "wix",
+        "wix-react-native-navigation"
+      ],
+      "tags": [
+        {
+          "name": "v2.2.1"
+        }
+      ]
+    },
+    {
+      "name": "NavigatorDemo",
+      "desc": "Navigator demo for React Native",
+      "site": null,
+      "url": "https://github.com/h87kg/NavigatorDemo",
+      "pushedAt": "2016-10-30T17:35:40Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/1426436?v=4",
+        "url": "https://github.com/h87kg",
+        "login": "h87kg"
+      },
+      "stars": 188,
+      "issues": 4,
+      "release": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "name": "ExNavRelay",
+      "desc": "Example of integrating ex-navigation with Relay",
+      "site": null,
+      "url": "https://github.com/sibelius/ExNavRelay",
+      "pushedAt": "2016-11-15T19:55:04Z",
+      "owner": {
+        "avatar": "https://avatars3.githubusercontent.com/u/2005841?v=4",
+        "url": "https://github.com/sibelius",
+        "login": "sibelius"
+      },
+      "stars": 22,
+      "issues": 0,
+      "release": [],
+      "topics": [
+        "relay",
+        "navigation",
+        "boilerplate",
+        "ex-navigation",
+        "react-native"
+      ],
+      "tags": []
+    }
+  ],
+  "modifiedOn": "2018-07-31T12:37:23.390Z"
+}

@@ -1,0 +1,318 @@
+{
+  "data": [
+    {
+      "name": "formik",
+      "desc": "Build forms in React, without the tears 😭 ",
+      "site": "https://npm.im/formik",
+      "url": "https://github.com/jaredpalmer/formik",
+      "pushedAt": "2018-07-29T12:25:59Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/4060187?v=4",
+        "url": "https://github.com/jaredpalmer",
+        "login": "jaredpalmer"
+      },
+      "stars": 8361,
+      "issues": 139,
+      "release": [
+        {
+          "update": "2018-07-25T14:46:51Z",
+          "name": "",
+          "pre": false,
+          "url": "https://github.com/jaredpalmer/formik/releases/tag/v1.0.2"
+        }
+      ],
+      "topics": [
+        "react",
+        "forms",
+        "form",
+        "higher-order-component",
+        "render-prop"
+      ],
+      "tags": [
+        {
+          "name": "v1.0.2",
+          "date": "2018-07-25T07:16:59-06:00"
+        }
+      ]
+    },
+    {
+      "name": "tcomb-form-native",
+      "desc": "Forms library for react-native",
+      "site": "",
+      "url": "https://github.com/gcanti/tcomb-form-native",
+      "pushedAt": "2018-07-21T17:15:01Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/878912?v=4",
+        "url": "https://github.com/gcanti",
+        "login": "gcanti"
+      },
+      "stars": 2709,
+      "issues": 79,
+      "release": [
+        {
+          "update": "2018-07-12T14:53:24Z",
+          "name": "v0.6.15",
+          "pre": false,
+          "url": "https://github.com/gcanti/tcomb-form-native/releases/tag/v0.6.15"
+        }
+      ],
+      "topics": [],
+      "tags": [
+        {
+          "name": "v0.6.15"
+        }
+      ]
+    },
+    {
+      "name": "react-native-gifted-form",
+      "desc": "📝 « One React-Native form component to rule them all »",
+      "site": "",
+      "url": "https://github.com/FaridSafi/react-native-gifted-form",
+      "pushedAt": "2018-05-29T13:53:05Z",
+      "owner": {
+        "avatar": "https://avatars0.githubusercontent.com/u/388375?v=4",
+        "url": "https://github.com/FaridSafi",
+        "login": "FaridSafi"
+      },
+      "stars": 1277,
+      "issues": 65,
+      "release": [
+        {
+          "update": "2017-11-15T23:34:09Z",
+          "name": "",
+          "pre": false,
+          "url": "https://github.com/FaridSafi/react-native-gifted-form/releases/tag/v0.1.1"
+        }
+      ],
+      "topics": [],
+      "tags": [
+        {
+          "name": "v0.1.1"
+        }
+      ]
+    },
+    {
+      "name": "react-native-clean-form",
+      "desc": "Easy react-native forms using bootstrap-like syntax with redux-form+immutablejs integration. Styled using styled-components",
+      "site": "http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/",
+      "url": "https://github.com/esbenp/react-native-clean-form",
+      "pushedAt": "2018-04-24T10:19:19Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/934819?v=4",
+        "url": "https://github.com/esbenp",
+        "login": "esbenp"
+      },
+      "stars": 402,
+      "issues": 33,
+      "release": [
+        {
+          "update": "2018-01-03T15:59:15Z",
+          "name": "",
+          "pre": true,
+          "url": "https://github.com/esbenp/react-native-clean-form/releases/tag/0.5.0"
+        }
+      ],
+      "topics": [
+        "react-native",
+        "redux-form",
+        "styled-components",
+        "redux"
+      ],
+      "tags": [
+        {
+          "name": "0.5.0",
+          "date": "2018-01-03T16:59:00+01:00"
+        }
+      ]
+    },
+    {
+      "name": "react-native-form-generator",
+      "desc": "Generate forms with native look and feel in a breeze",
+      "site": null,
+      "url": "https://github.com/MichaelCereda/react-native-form-generator",
+      "pushedAt": "2018-07-06T01:03:54Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/107390?v=4",
+        "url": "https://github.com/MichaelCereda",
+        "login": "MichaelCereda"
+      },
+      "stars": 347,
+      "issues": 57,
+      "release": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "name": "react-native-form",
+      "desc": "A simple react-native component to wrap your form fields and get their values with just one single method.",
+      "site": "https://www.npmjs.com/package/react-native-form",
+      "url": "https://github.com/julianocomg/react-native-form",
+      "pushedAt": "2017-01-03T04:32:28Z",
+      "owner": {
+        "avatar": "https://avatars1.githubusercontent.com/u/7483557?v=4",
+        "url": "https://github.com/julianocomg",
+        "login": "julianocomg"
+      },
+      "stars": 132,
+      "issues": 2,
+      "release": [],
+      "topics": [
+        "react-native",
+        "form",
+        "android",
+        "ios"
+      ],
+      "tags": []
+    },
+    {
+      "name": "react-native-forms",
+      "desc": "[Archived] A simple, declarative API for creating cross-platform, native-appearing forms with React Native",
+      "site": "",
+      "url": "https://github.com/michaelhelvey/react-native-forms",
+      "pushedAt": "2018-02-16T18:34:47Z",
+      "owner": {
+        "avatar": "https://avatars3.githubusercontent.com/u/12801974?v=4",
+        "url": "https://github.com/michaelhelvey",
+        "login": "michaelhelvey"
+      },
+      "stars": 85,
+      "issues": 3,
+      "release": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "name": "react-reactive-form",
+      "desc": "Angular like reactive forms in React.",
+      "site": "",
+      "url": "https://github.com/bietkul/react-reactive-form",
+      "pushedAt": "2018-06-12T11:38:24Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/20393043?v=4",
+        "url": "https://github.com/bietkul",
+        "login": "bietkul"
+      },
+      "stars": 83,
+      "issues": 2,
+      "release": [
+        {
+          "update": "2018-05-30T21:37:34Z",
+          "name": "Added FormGenerator Api",
+          "pre": false,
+          "url": "https://github.com/bietkul/react-reactive-form/releases/tag/1.0.25"
+        }
+      ],
+      "topics": [
+        "forms",
+        "reactive-forms",
+        "async-validation",
+        "react",
+        "react-native",
+        "form-builder",
+        "form-validation",
+        "subscription",
+        "observable",
+        "observer",
+        "asynchronous",
+        "react-forms",
+        "form-generator",
+        "form-controls",
+        "form-fields"
+      ],
+      "tags": [
+        {
+          "name": "1.0.25",
+          "date": "2018-05-31T03:04:58+05:30"
+        }
+      ]
+    },
+    {
+      "name": "react-native-form-builder",
+      "desc": "Handle your forms in a smart way",
+      "site": "",
+      "url": "https://github.com/bietkul/react-native-form-builder",
+      "pushedAt": "2018-06-06T12:18:02Z",
+      "owner": {
+        "avatar": "https://avatars2.githubusercontent.com/u/20393043?v=4",
+        "url": "https://github.com/bietkul",
+        "login": "bietkul"
+      },
+      "stars": 61,
+      "issues": 5,
+      "release": [
+        {
+          "update": "2017-10-11T18:52:05Z",
+          "name": "",
+          "pre": false,
+          "url": "https://github.com/bietkul/react-native-form-builder/releases/tag/v1.0.12"
+        }
+      ],
+      "topics": [
+        "nested-forms",
+        "form-builder",
+        "textinput",
+        "picker",
+        "theme",
+        "react-native",
+        "form"
+      ],
+      "tags": [
+        {
+          "name": "v1.0.12",
+          "date": "2017-10-12T00:20:39+05:30"
+        }
+      ]
+    },
+    {
+      "name": "foect",
+      "desc": "Simple form validation library for React Native.",
+      "site": "",
+      "url": "https://github.com/unexge/foect",
+      "pushedAt": "2017-10-17T08:48:34Z",
+      "owner": {
+        "avatar": "https://avatars0.githubusercontent.com/u/16212576?v=4",
+        "url": "https://github.com/unexge",
+        "login": "unexge"
+      },
+      "stars": 35,
+      "issues": 2,
+      "release": [
+        {
+          "update": "2017-10-17T08:49:15Z",
+          "name": "",
+          "pre": false,
+          "url": "https://github.com/unexge/foect/releases/tag/v0.1.5"
+        }
+      ],
+      "topics": [
+        "react",
+        "react-native",
+        "form",
+        "validation"
+      ],
+      "tags": [
+        {
+          "name": "v0.1.5"
+        }
+      ]
+    },
+    {
+      "name": "react-native-form-flux",
+      "desc": "React Native Form management using Flux architecture",
+      "site": "",
+      "url": "https://github.com/aksonov/react-native-form-flux",
+      "pushedAt": "2015-09-12T12:41:00Z",
+      "owner": {
+        "avatar": "https://avatars3.githubusercontent.com/u/1321329?v=4",
+        "url": "https://github.com/aksonov",
+        "login": "aksonov"
+      },
+      "stars": 2,
+      "issues": 0,
+      "release": [],
+      "topics": [],
+      "tags": []
+    }
+  ],
+  "modifiedOn": "2018-07-31T12:38:06.709Z"
+}
